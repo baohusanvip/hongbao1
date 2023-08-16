@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/github/license/kailong321200875/vue-element-plus-admin.svg)](LICENSE)
 
-<h1>Telegram电报红包扫雷机器人/可单控/群控/自动发包抢包/中英文切换/源码</h1>
+<h1>TG电报飞机红包扫雷机器人/功能-扫雷-接龙-中英文切换-自动上分-假人自动发包抢包</h1>
 <h1>爱拉币开发-具体演示和介绍进飞机频道：https://t.me/ailabehb</h1>
 
 
